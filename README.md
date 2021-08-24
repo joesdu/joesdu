@@ -1,8 +1,6 @@
 ### Hi There 👋
 <a href="">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joesdu&count_private=true&show_icons=true&theme=radical" alt="joesdu's github stats" />
-</a>
-<a href="">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&count_private=true&theme=radical&layout=compact" alt="joesdu's github top languages" />
 </a>
 <br/>
