@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi There 👋
 <a href="">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joesdu&show_icons=true" alt="joesdu's github stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu" alt="joesdu's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joesdu&count_private=true&show_icons=true&theme=radical" alt="joesdu's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&count_private=true&theme=radical" alt="joesdu's github top languages" />
 </a>
 <br/>
 
