@@ -1,6 +1,9 @@
 ### Hi there 👋
-
-[![joes_du's github stats](https://github-readme-stats.vercel.app/api?username=joesdu)](https://github.com/joesdu)
+<a href="">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joesdu&show_icons=true" alt="joesdu's github stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu" alt="joesdu's github top languages" />
+</a>
+<br/>
 
 - 🌱 I’m currently learning .net core
 <!--
@@ -9,7 +12,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
