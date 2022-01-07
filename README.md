@@ -1,4 +1,5 @@
 ### Hi There 👋
+- In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](githubtrends.io/wrapped/joesdu)
 <a href="">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joesdu&count_private=true&show_icons=true&theme=radical" alt="joesdu's github stats" />
 </a>
