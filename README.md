@@ -1,5 +1,5 @@
 ### Hi There 👋
-- In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends](githubtrends.io/wrapped/joesdu)
+- In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends](https://www.githubtrends.io/)
 - 🌱 I’m currently learning .Net , react, Rust
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
