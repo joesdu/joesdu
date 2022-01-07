@@ -1,13 +1,9 @@
 ### Hi There 👋
 - In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](githubtrends.io/wrapped/joesdu)
-<a href="">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joesdu&count_private=true&show_icons=true&theme=radical" alt="joesdu's github stats" />
-</a>
-<a href="">  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&count_private=true&theme=radical&layout=compact" alt="joesdu's github top languages" />
-</a>
-<br/>
 - 🌱 I’m currently learning .Net , react, Rust
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 <!--
 **joesdu/joesdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
