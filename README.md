@@ -2,7 +2,7 @@
 - In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io
 - 🌱 I’m currently learning .Net , React, Rust
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&use_percent=True&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 <!--
 **joesdu/joesdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
