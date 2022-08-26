@@ -1,5 +1,5 @@
 ### Hi There 👋😋
-- In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](githubtrends.io)
+- In 2021, I made 2195 contributions and modified 204,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
 - 🌱 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) , [React](https://react.docschina.org/) , [Rust](https://course.rs/about-book.html)
 - 🔭 I’m currently working on ShangHai
 - ⚡ Fun fact: Coding
