@@ -3,17 +3,16 @@
 - 🌱 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) , [React](https://react.docschina.org/) , [Rust](https://course.rs/about-book.html) , [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) , [TypeScript](https://www.typescriptlang.org)
 - 🔭 I’m currently working on ShangHai
 - ⚡ Fun fact: Coding
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
-<br />
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
-
 <a href=#><img src="github-user-contribution.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
 </p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+
 <!--
 **joesdu/joesdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
