@@ -7,6 +7,13 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 <br />
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+
+<a href=#><img src="github-user-contribution.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
+</p>
 <!--
 **joesdu/joesdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
