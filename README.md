@@ -10,7 +10,7 @@
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
 </p>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+<!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/repos?time_range=one_year&theme=dark)](https://githubtrends.io)-->
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
 <!--
