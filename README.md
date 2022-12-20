@@ -10,8 +10,6 @@
 ![Profile](https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=6&no-frame=true&no-bg=true)
 
 ![](https://raw.githubusercontent.com/joesdu/joesdu/main/assets/github-contribution-grid-snake.svg)
-
-<a href=#><img src="github-user-contribution.svg"></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
