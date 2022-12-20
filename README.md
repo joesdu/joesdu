@@ -1,8 +1,8 @@
 ### Hi There 👋😋
 - In 2022, I made 1173 contributions and modified 190,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
-- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) , [Go](https://golang.google.cn/), [React](https://react.docschina.org/) , [Rust](https://course.rs/about-book.html) , [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) , [TypeScript](https://www.typescriptlang.org), [Dapr](https://docs.dapr.io/zh-hans/getting-started/)
+- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [TypeScript](https://www.typescriptlang.org) | [Dapr](https://docs.dapr.io/zh-hans/getting-started/) | [Rust](https://course.rs/about-book.html)
 - 🔭 I’m currently working on ShangHai
-- ⚡ Fun fact: Coding
+- ⚡ Fun fact: Coding & Music
 
 ### Languages and Tools:
 
@@ -23,6 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=flat-square&logo=MongoDB&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-00364d?style=flat-square&logo=Harbor&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-cc375d?style=flat-square&logo=Powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-343846?style=flat-square&logo=Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?style=flat-square&logo=RaspberryPi&logoColor=white)
 
