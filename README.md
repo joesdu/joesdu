@@ -9,6 +9,7 @@
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
 ![Profile](https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=6&no-frame=true&no-bg=true)
 
+![](https://raw.githubusercontent.com/joesdu/joesdu/main/assets/github-contribution-grid-snake.svg)
 
 <a href=#><img src="github-user-contribution.svg"></a>
 <p align="center"> 
