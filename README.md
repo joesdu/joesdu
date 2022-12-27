@@ -1,6 +1,6 @@
 ### Hi There 👋😋
 - In 2022, I made 1173 contributions and modified 190,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
-- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [TypeScript](https://www.typescriptlang.org) | [Dapr](https://docs.dapr.io/zh-hans/getting-started/) | [Rust](https://course.rs/about-book.html)
+- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Dapr](https://docs.dapr.io/zh-hans/getting-started/) | [Rust](https://course.rs/about-book.html)
 - 🔭 I’m currently working on ShangHai
 - ⚡ Fun fact: Coding & Music
 
