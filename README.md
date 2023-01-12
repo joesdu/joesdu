@@ -50,7 +50,7 @@
 
 <p align="center"> 
   WeChat公众号<br>
-  <img src="https://raw.githubusercontent.com/joesdu/joesdu/main/assets/wechat-official-account.png" />
+  <img src="https://github.com/joesdu/joesdu/blob/main/wechat-official-account.png" />
 </p>
 
 <!--
