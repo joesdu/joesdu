@@ -49,7 +49,6 @@
 </p>
 
 <p align="center"> 
-  WeChat公众号<br>
   <img src="https://github.com/joesdu/joesdu/blob/main/wechat-official-account.png" />
 </p>
 
