@@ -1,4 +1,5 @@
 ### Hi There 👋😋
+
 - In 2022, I made 1247 contributions and modified 208,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
 - 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Dapr](https://docs.dapr.io/zh-hans/getting-started/) | [Rust](https://course.rs/about-book.html)
 - 🔭 I’m currently working on ShangHai
@@ -35,13 +36,21 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=joesdu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&count_private=true)
+
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
+
 ![Profile](https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=6&no-frame=true&no-bg=true)
 
 ![](https://raw.githubusercontent.com/joesdu/joesdu/main/assets/github-contribution-grid-snake.svg)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
+</p>
+
+<p align="center"> 
+  WeChat公众号<br>
+  <img src="https://raw.githubusercontent.com/joesdu/joesdu/main/assets/wechat-official-account.png" />
 </p>
 
 <!--
