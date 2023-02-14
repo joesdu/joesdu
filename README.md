@@ -34,23 +34,22 @@
 [![QQ](https://img.shields.io/badge/QQ-9599ed?style=flat-square&logo=TencentQQ&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=7nxtieNadHOuoeH9rqcWD4uTSGQ70J8W&noverify=0&personal_qrcode_source=3)
 [![Email](https://img.shields.io/badge/Mail-d02109?style=flat-square&logo=gmail&logoColor=white)](mailto:joes_du@foxmail.com)
 
-![](https://github-readme-stats.vercel.app/api?username=joesdu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&count_private=true)
+---
 
-<!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
-
-![Profile](https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=7&no-frame=true&no-bg=true)
-
-![](https://raw.githubusercontent.com/joesdu/joesdu/main/assets/github-contribution-grid-snake.svg)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=joesdu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=7&no-frame=true&no-bg=true" />
+  <img src="./assets/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
+  <img src="wechat-official-account.png" />
 </p>
 
-<p align="center"> 
-  <img src="https://github.com/joesdu/joesdu/blob/main/wechat-official-account.png" />
-</p>
+<!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
 
 <!--
 ![github-wrapped](https://user-images.githubusercontent.com/13188169/208610932-a5640923-86b7-44ce-af8c-2892dd364f3f.png)
