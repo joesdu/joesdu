@@ -12,8 +12,8 @@
 [![QQ](https://img.shields.io/badge/QQ-9599ed?logo=TencentQQ&logoColor=white&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=7nxtieNadHOuoeH9rqcWD4uTSGQ70J8W&noverify=0&personal_qrcode_source=3)
 [![Email](https://img.shields.io/badge/Mail-d02109?logo=gmail&logoColor=white&style=flat-square)](mailto:joes_du@foxmail.com)
 [![GitHub Stars](https://img.shields.io/github/stars/joesdu?color=2da44e&label=GitHub%20Stars&logo=Github&style=flat-square)](https://github.com/joesdu)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joesdu.joesdu&left_text=Visitors&left_color=red&right_color=green)](https://github.com/joesdu)
 ![GitHub followers](https://img.shields.io/github/followers/joesdu?label=Followers&style=flat-square)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joesdu.joesdu&left_text=Visitors&left_color=red&right_color=green)](https://github.com/joesdu)
 
 #### Languages:
 
