@@ -52,7 +52,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=8&no-frame=true&no-bg=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <!--<source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />-->
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </p>
