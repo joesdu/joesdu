@@ -50,8 +50,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joesdu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&count_private=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=8&no-frame=true&no-bg=true" />
-  <img src="./assets/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
 </p>
+
+
 
 <p align="center"> 
   Visitor count<br>
