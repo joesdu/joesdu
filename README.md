@@ -4,7 +4,7 @@
 - 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html)
 - 🔭 I’m currently working on ShangHai
 - ⚡ Fun fact: Coding & Music
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with
 
 #### About me:
 
@@ -56,8 +56,6 @@
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </p>
-
-
 
 <p align="center"> 
   Visitor count<br>
