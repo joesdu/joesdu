@@ -1,14 +1,14 @@
 ### Hi There 👋😋
 
 - In 2022, I made 1247 contributions and modified 208,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
-- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html)
+- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn) | [React](https://react.docschina.org) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html)
 - 🔭 I’m currently working on ShangHai
 - ⚡ Fun fact: Coding & Music
 - 🤔 I’m looking for help with
 
 #### About me:
 
-[![Blogs](https://img.shields.io/badge/CNBlogs-3693F3?logo=GoogleHome&logoColor=white&style=flat-square)](https://www.cnblogs.com/dygood/)
+[![Blogs](https://img.shields.io/badge/CNBlogs-3693F3?logo=GoogleHome&logoColor=white&style=flat-square)](https://www.cnblogs.com/dygood)
 [![QQ](https://img.shields.io/badge/QQ-9599ed?logo=TencentQQ&logoColor=white&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=7nxtieNadHOuoeH9rqcWD4uTSGQ70J8W&noverify=0&personal_qrcode_source=3)
 [![Email](https://img.shields.io/badge/Mail-d02109?logo=gmail&logoColor=white&style=flat-square)](mailto:joes_du@foxmail.com)
 [![GitHub Stars](https://img.shields.io/github/stars/joesdu?color=2da44e&label=GitHub%20Stars&logo=Github&style=flat-square)](https://github.com/joesdu)
@@ -25,7 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff&style=flat-square)
 
-#### Framework and Tools:
+#### Framework & Tools:
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-999999?logo=Microsoft&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat-square)
@@ -47,8 +47,9 @@
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=joesdu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joesdu&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&layout=compact&count_private=true" alt="joesdu's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&show_icons=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&layout=compact&count_private=true" alt="joesdu's github top languages" />
+  
   <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=8&no-frame=true&no-bg=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -57,7 +58,7 @@
   </picture>
 </p>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/joesdu/count.svg" />
   <img src="wechat-official-account.png" />
