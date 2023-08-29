@@ -44,6 +44,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?logo=Ubuntu&logoColor=white&style=flat-square)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?logo=RaspberryPi&logoColor=white&style=flat-square)
 
+#### Certifications
+
+[Foundational-C#-With-Microsoft](https://www.freecodecamp.org/certification/fcca7c104f8-9b1b-46c9-8507-2a2d737c5b6d/foundational-c-sharp-with-microsoft)
+
 ---
 
 <p align="center"> 
