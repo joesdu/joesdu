@@ -46,7 +46,7 @@
 
 #### Certifications
 
-[Foundational-C#-With-Microsoft](https://www.freecodecamp.org/certification/fcca7c104f8-9b1b-46c9-8507-2a2d737c5b6d/foundational-c-sharp-with-microsoft)
+[Foundational C# With Microsoft](https://www.freecodecamp.org/certification/fcca7c104f8-9b1b-46c9-8507-2a2d737c5b6d/foundational-c-sharp-with-microsoft)
 
 ---
 
