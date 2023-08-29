@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Mail-d02109?logo=gmail&logoColor=white&style=flat-square)](mailto:joes_du@foxmail.com)
 [![GitHub Stars](https://img.shields.io/github/stars/joesdu?color=2da44e&label=GitHub%20Stars&logo=Github&style=flat-square)](https://github.com/joesdu)
 ![GitHub followers](https://img.shields.io/github/followers/joesdu?label=Followers&style=flat-square)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joesdu.joesdu&left_text=Visitors&left_color=red&right_color=green)](https://github.com/joesdu)
 
 #### Languages:
 
