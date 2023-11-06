@@ -53,7 +53,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joesdu&show_icons=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&layout=compact&count_private=true" alt="joesdu's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesdu&show_icons=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&layout=compact&count_private=true" alt="joesdu's github top languages" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=8&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joesdu&theme=monokai&column=9&no-frame=true&no-bg=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <!--<source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />-->
