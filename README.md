@@ -19,7 +19,6 @@
 ![React](https://img.shields.io/badge/React-51adc2?logo=React&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333&style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-cc375d?logo=Powershell&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff&style=flat-square)
 
@@ -32,6 +31,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-24bfa5?logo=VisualStudioCode&logoColor=white&style=flat-square)
 ![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?logo=MicrosoftEdge&logoColor=white&style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-3776AB?logo=Windows&logoColor=white&style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-cc375d?logo=Powershell&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-003f8c?logo=Docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326de6?logo=Kubernetes&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-ce332a?logo=Redis&logoColor=white&style=flat-square)
