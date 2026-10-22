@@ -72,7 +72,7 @@
 -->
 <p align="center">
   GitHub Roast 评分卡<br>
-  <img src="https://ghfind.com/api/card/mini/joesdu?lang=zh" />
+  <img src="https://ghfind.com/api/card/mini/joesdu?variant=radar&theme=dark" />
 </p>
 
 <!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joesdu/langs?time_range=one_year&include_private=True&compact=True&theme=dark)](https://githubtrends.io)-->
